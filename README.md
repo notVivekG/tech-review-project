@@ -52,7 +52,7 @@ public/
 ### 1) Clone and install dependencies
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/notVivekG/tech-review-project.git
 cd ProductReviewProject
 npm install
 ```
